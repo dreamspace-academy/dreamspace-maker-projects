@@ -13,7 +13,7 @@ Viththiyakaran Nadarajah [Click to see](http://team.dreamspace.academy/viththi)
  - Thanuskar Srikaran , In charge of Maker Education , DreamSpace Academy , Batticaloa , Sri Lanka.
 
 ## Design
-![Design and Developed by N.Viththiyakaran!](/images/basic-design-of-aquamagic-image.png "AquaMagic Water Garbage Collector")
+![Design and Developed by N.Viththiyakaran!](./images/basic-design-of-aquamagic-image.png "AquaMagic Water Garbage Collector")
 
 ## Model
-![Design and Developed by N.Viththiyakaran!](/images/model-of-aquamagic-image.png "AquaMagic Water Garbage Collector")
+![Design and Developed by N.Viththiyakaran!](./images/model-of-aquamagic-image.png "AquaMagic Water Garbage Collector")

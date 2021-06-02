@@ -20,8 +20,8 @@ The day after discussion with the makerspace team in charge Mr.Thanshkar and Mr.
 * Sticks 2
 * Snare 01
 
-## Product 
+## Product
 
-![Automatic Snare Drum](/images/dreamspace-automatic-snare-oct-2019-1.jpg)
-![Automatic Snare Drum](/images/dreamspace-automatic-snare-oct-2019-2.jpg)
-![Automatic Snare Drum](/images/dreamspace-automatic-snare-oct-2019-3.jpg)
+![Automatic Snare Drum](./images/dreamspace-automatic-snare-oct-2019-1.jpg)
+![Automatic Snare Drum](./images/dreamspace-automatic-snare-oct-2019-2.jpg)
+![Automatic Snare Drum](./images/dreamspace-automatic-snare-oct-2019-3.jpg)
