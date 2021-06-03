@@ -1,2 +1,2 @@
-# Automatic and Sanitizer Sispenser
+# Automatic Hand Sanitizer Dispenser
 
