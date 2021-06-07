@@ -19,7 +19,7 @@ To avoid any contact at all, some no-touch hand sanitizer dispensers are commerc
 6. 9V Battery
 
 <p align="center">
-<img src="./images\automatic-sanitizer-dispenser-components.jpg" alt= "GESTURES" width=70% height=50%/>
+<img src="./images/automatic-sanitizer-dispenser-components.jpg" alt= "GESTURES" width=70% height=50%/>
 </p>
 
 ### What is an Ultrasonic Sensor?
@@ -29,7 +29,7 @@ An ultrasonic sensor measures the distance between its transmitter and an obstac
 </p>
 
 <p align="center">
-<img src="images\ultrasonic-senser-working-principle.png./" alt= "GESTURES" width= 70% hight= 50%/>
+<img src="./images/ultrasonic-senser-working-principle.png" alt= "GESTURES" width= 70% hight= 50%/>
 </p>
 
 ### Servo Motor
@@ -39,7 +39,7 @@ Let’s get into some more technical bits for a moment: a servo motor is the mos
 </p>
 
 <p align="center">
-<img src="images\servo-moto-working-principel.png./" alt= "GESTURES" width= 80% hight= 50%/>
+<img src="./images/servo-moto-working-principel.png" alt= "GESTURES" width= 80% hight= 50%/>
 </p>
 
 
@@ -55,5 +55,5 @@ The working principle of the automatic sanitizer dispenser is to actuate the ser
 </p>
 
 <p align="center">
-<img src="images\exampel.png./" alt= "GESTURES" width= 50% hight= 40%/>
+<img src="./images/exampel.png" alt= "GESTURES" width= 50% hight= 40%/>
 </p>
