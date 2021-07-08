@@ -1,4 +1,4 @@
-# Automatic Hand Sanitizer Dispenser
+# Automatic Hand Sanitizer
 
 <p align="justify">
 
