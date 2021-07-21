@@ -6,8 +6,7 @@ Recently hand gesture controls are getting very famous. This technique is called
 <br>
 
 <p align="center">
-<img src="./source/images/automatic-hand-gesture-control.JPG
-" alt= "GESTURES" width=70% height=50%/>
+<img src="./source/images/automatic-hand-gesture-control.JPG" alt= "GESTURES" width=70% height=50%/>
 </p>
 
 <br>
